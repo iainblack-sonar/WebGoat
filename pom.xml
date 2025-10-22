@@ -61,7 +61,6 @@
   </issueManagement>
 
   <properties>
-    <sonar.organization>iainblack-sonar</sonar.organization>
     <!-- Shared properties with plugins and version numbers across submodules-->
     <asciidoctorj.version>3.0.0</asciidoctorj.version>
     <bootstrap.version>5.3.5</bootstrap.version>
@@ -95,6 +94,7 @@
     <!-- Use UTF-8 Encoding -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <sonar.organization>iainblack-sonar</sonar.organization>
     <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
     <waittimeForServerStart>60</waittimeForServerStart>
     <webdriver.version>6.3.2</webdriver.version>
